@@ -19,4 +19,4 @@ for c in TheString[-1::-1]: # printing the letters of the string in reverse
     print(c)
 print("\n")
 Computer_parts = ["Monitor", "mouse", "PC_Tower"]
-print(Computer_parts[0][2])
+print(Computer_parts[0][2]) # Output: n
